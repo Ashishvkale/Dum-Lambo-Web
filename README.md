@@ -1,2 +1,3 @@
 # Dum-Lambo-Web
-It's an Basic labmorghini website interface (HTML5/CSS3) code. 
+It's an Basic practise labmorghini website interface (HTML5/CSS3) code.
+With header, footer, section, images etc...
